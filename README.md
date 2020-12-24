@@ -1,2 +1,3 @@
-# jie.github.io
-JIE's Code Pages
+# JIE's Code Pages
+
+# contact jie@jie.kr
